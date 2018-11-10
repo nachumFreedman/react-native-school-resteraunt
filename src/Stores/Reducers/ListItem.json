@@ -1,0 +1,35 @@
+[
+  {
+    "id": 0,
+    "image": "require('../../Images/PavBhaji.jpg')",
+    "heading": "Pav Bhaji",
+    "description":
+      "a spicy curry of mixed vegetables (bhaji) cooked in a special blend of spices.",
+    "price": "Price: $5"
+  },
+  {
+    "id": 1,
+    "image": "require('../../Images/PavBhaji.jpg')",
+    "heading": "Butter Pav Bhaji",
+    "description":
+      "a spicy curry of mixed vegetables (bhaji) cooked in a special blend of spices.",
+    "price": "Price: $5"
+  },
+  {
+    "id": 2,
+    "image": "require('../../Images/PavBhaji.jpg')",
+    "heading": "Masala Pav Bhaji",
+    "description":
+      "a spicy curry of mixed vegetables (bhaji) cooked in a special blend of spices.",
+    "price": "Price: $5"
+  },
+
+  {
+    "id": 3,
+    "image": "require('../../Images/PavBhaji.jpg')",
+    "heading": "Mashroom Pav Bhaji",
+    "description":
+      "a spicy curry of mixed vegetables (bhaji) cooked in a special blend of spices.",
+    "price": "Price: $5"
+  }
+]
